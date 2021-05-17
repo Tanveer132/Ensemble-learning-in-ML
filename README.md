@@ -8,4 +8,5 @@ Bagging, Boosting, Stacking
   5. XGradient Boosting Classifier
 
 Voting Classifier
+
 Stacked Classifier
