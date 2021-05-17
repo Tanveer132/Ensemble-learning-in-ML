@@ -6,3 +6,6 @@ Bagging, Boosting, Stacking
   3. Ada Boost Classifier
   4. Gradient Boosting Classifier
   5. XGradient Boosting Classifier
+
+Voting Classifier
+Stacked Classifier
